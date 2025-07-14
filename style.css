@@ -1,0 +1,104 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: bisque;
+}
+/*dark grey top section START*/
+.sec1{
+   height:100%;
+   width: 100%;
+   background-color: #1F2937
+}
+.bar{
+    display:flex;
+    margin-left:100px;
+    margin-right:100px;
+}
+.header{
+    font-size: 24px;
+    font-weight:bold;
+    font-family: sans-serif;
+    color:#f9faf8;
+flex:1;
+    margin:0px;
+    padding:15px;
+    gap:30px;
+}
+.top{
+    font-family: sans-serif;
+    color:#e5e7eb;
+    display:flex;
+}
+.one{
+    margin:0px;
+    padding:15px;
+    gap:30px;
+}
+.two{
+    margin:0px;
+    padding:15px;
+    gap:30px;
+}
+.three{
+    margin:0px;
+    padding:15px;
+    gap:30px;
+    margin:0px;
+    padding:15px;
+    gap:30px;
+}
+.mid{
+    display:flex;
+}
+.s1{
+    display:block;
+    padding:100px;
+}
+.pah{
+    font-family: sans-serif;
+    font-size:48px;
+    font-weight:900px;
+    color:#f9faf8;
+    max-width:400px
+   
+}
+.pas{
+    font-family: sans-serif;
+    font-size:18px;
+    color:#e5e7eb;
+    max-width:450px;
+}
+.button{
+    background-color:#3882f6;
+    color:#e5e7eb;
+    padding:6px 22px;
+    border-radius: 8px;
+    margin-top:10px;
+}
+.s2{
+    
+}
+.img1{
+    display:flex;
+    margin-right:100px;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+/*dark grey top section END*/
+
+/*white 4 photo section START*/
+
+
+
+
+
+
+
+
+
+
+
+/*white 4 photo section END*/
+.footer{
+
+}
